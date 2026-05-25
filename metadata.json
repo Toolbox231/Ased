@@ -1,0 +1,6 @@
+{
+  "name": "SOCKS5 Elite",
+  "description": "Сайт с автоматической бесплатной и стабильной 24/7 базой SOCKS5 прокси-серверов.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
